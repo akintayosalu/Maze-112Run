@@ -1,9 +1,9 @@
 # Maze-112Run
 3D endless running game built with Python and the OpenCV graphics package
 # Short Description
-Maze-112 Run is a 3D endless running game that is inspired by the
+Maze-112Run is a 3D endless running game that is inspired by the
 mobile video game series Temple Run developed by Imangi Studios. 
-Temple-12 Run will utilize keyboard presses and/or hand tracking to
+Maze-112Run Run will utilize keyboard presses and/or hand tracking to
 move a user’s player through a 3D ray cast world.
 # How to run the project?
 * In order to run the project, you only need to run the file called TP.py
